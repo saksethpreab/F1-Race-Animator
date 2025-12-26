@@ -253,3 +253,4 @@ def main():
     animation_plot(stored_driver, stored_gp, stored_year, stored_fastest_lap, stored_lap_time_in_s, stored_lap_time_in_ms, stored_time_series, stored_x_pos_series, stored_y_pos_series, stored_velocity_series, stored_gear_series, stored_throttle_series, stored_x_corners, stored_y_corners, stored_fast_x_min, stored_fast_x_max, stored_fast_y_min, stored_fast_y_max)
     
 main()
+
