@@ -145,11 +145,11 @@ def animation_plot(stored_driver, stored_gp, stored_year, stored_fastest_lap, st
     gear_axis.set_yticks([])
 
 
-    # plotting the corners of the track
+    # plotting the corners of the track -- pink
     position_axis.scatter(stored_x_corners, stored_y_corners, s=2)
-    # plot the track
+    # plot the path -- grey
     position_axis.plot(stored_x_pos_series, stored_y_pos_series, color='grey') 
-    # plotting the movement of the car
+    # plotting the movement of the car -- green
     animated_position, = position_axis.plot([], [], color='green')
 
 
