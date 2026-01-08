@@ -6,7 +6,11 @@ The idea for this project comes from my obssesion with Formula 1. With the abund
 
 Thus, I put together program that allow you to visualize any race record by [FastF1]([url](https://docs.fastf1.dev/)). 
 
-# Usage 💻
+## Related Libraries
+1. Matplotlib
+2. Pandas (dataframes and methods)
+
+## Usage 💻
 1. Run the program
 2. Choose year
 3. Choose race location
@@ -16,6 +20,6 @@ Thus, I put together program that allow you to visualize any race record by [Fas
 
 This project has unlimited growth potential as there are many ways to visualize race data. Thus, I'm always open to collboration. 
 
-# Contribute 💪
+## Contribute 💪
 If you'd like to contribute, a few issues are available.
 
