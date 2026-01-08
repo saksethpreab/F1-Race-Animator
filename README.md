@@ -6,12 +6,13 @@ The idea for this project comes from my obssesion with Formula 1. With the abund
 
 Thus, I put together program that allow you to visualize any race record by [FastF1]([url](https://docs.fastf1.dev/)). 
 
-## Related Libraries
-1. Matplotlib
-2. Pandas (dataframes and methods)
+## Related Packages
+1. [fastf1]([url](https://pypi.org/project/fastf1/))
+2. [matplotlib]([url](https://pypi.org/project/matplotlib/))
+3. [pandas]([url](https://pypi.org/project/pandas/)) (dataframes and methods)
 
 ## Usage 💻
-1. Run the program
+1. Run the program (IDLE or VS Code)
 2. Choose year
 3. Choose race location
 4. Choose type of session
@@ -22,4 +23,3 @@ This project has unlimited growth potential as there are many ways to visualize 
 
 ## Contribute 💪
 If you'd like to contribute, a few issues are available.
-
