@@ -7,9 +7,9 @@ The idea for this project comes from my obssesion with Formula 1. With the abund
 Thus, I put together program that allow you to visualize any race record by [FastF1]([url](https://docs.fastf1.dev/)). 
 
 ## Related Packages
-1. [fastf1]([url](https://pypi.org/project/fastf1/))
-2. [matplotlib]([url](https://pypi.org/project/matplotlib/))
-3. [pandas]([url](https://pypi.org/project/pandas/)) (dataframes and methods)
+1. [fastf1](https://pypi.org/project/fastf1/)
+2. [matplotlib](https://pypi.org/project/matplotlib/)
+3. [pandas](https://pypi.org/project/pandas/) (dataframes and methods)
 
 ## Usage 💻
 1. Run the program (IDLE or VS Code)
